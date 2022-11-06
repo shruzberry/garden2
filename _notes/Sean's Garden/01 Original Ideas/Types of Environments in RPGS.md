@@ -1,4 +1,4 @@
-[[Game Design]]
+[[_notes/Sean's Garden/01 Original Ideas/Game Design]]
 
 1. Indoor man-made (dungeon, castle)
 	1. true tiles

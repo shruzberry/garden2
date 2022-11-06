@@ -13,5 +13,5 @@ Below are pages that I link to often in my other ideas.  I suggest using them as
 
 - [[Dungeons and Dragons]]
 - [[Conversation]]
-- [[Game Design]]
-- [[Productivity]]
+- [[_notes/Sean's Garden/01 Original Ideas/Game Design]]
+- [[_notes/Sean's Garden/01 Original Ideas/Productivity]]

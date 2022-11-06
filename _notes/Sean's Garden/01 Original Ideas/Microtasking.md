@@ -1,4 +1,4 @@
-[[Productivity]]
+[[_notes/Sean's Garden/01 Original Ideas/Productivity]]
 
 What I call a system of creating tasks similar to a checklist however its generation and usage is quick and non physical meaning ideas of tasks are generated and stored in the taskers memory and checked off that way.
 

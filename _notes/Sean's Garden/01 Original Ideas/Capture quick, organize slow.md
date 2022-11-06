@@ -1,4 +1,4 @@
-[[Productivity]]
+[[_notes/Sean's Garden/01 Original Ideas/Productivity]]
 
 Capture quick, organize slow
 
