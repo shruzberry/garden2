@@ -1,4 +1,4 @@
-[[Dungeons and Dragons]] #idea 
+[[Dungeons and Dragons]] [[Game Design]] 
 
 ---
 # Immersion via Aesthetics

@@ -1,10 +1,4 @@
 Status: #MOC 
 
-## My Ideas
-```dataview
-table
-from ([[Dungeons and Dragons]]) and (#idea)
-```
-
-## Content
+## Recommended Content
 https://slyflourish.com/
