@@ -1,0 +1,1 @@
+Idea brought to my attention from [[Return of the lazy DM]], DM attachment is the idea that the more you prepare, the more ==you will want the players to act in a certain way==. Thus railroading them towards your intended outcome

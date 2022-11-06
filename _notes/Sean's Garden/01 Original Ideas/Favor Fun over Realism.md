@@ -1,0 +1,1 @@
+Always make the game fun first. aiming for realism only ties down the game

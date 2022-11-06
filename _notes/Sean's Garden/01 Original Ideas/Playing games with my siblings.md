@@ -1,0 +1,3 @@
+When I used to [[Play]] games with my siblings in childhood, there were moments of action and adventure intermixed with slower and more imersive imaginative experiences. When things were slow, quite and personal, I felt imersed in the game even more and my role in that game gained more clarity. In a way, it was similar to real life [[meditation]]
+
+Utilizing this method of [[dropping into character]] I was able to play the games better.
