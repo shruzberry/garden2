@@ -1,3 +1,5 @@
+[[Productivity]]
+
 What I call a system of creating tasks similar to a checklist however its generation and usage is quick and non physical meaning ideas of tasks are generated and stored in the taskers memory and checked off that way.
 
 This idea is benefitial in contexts such as [[Intermittent Productivity]] where the speed of task creation small size of the tasks are the bottleneck of productivity.
