@@ -1,3 +1,5 @@
+[[Dungeons and Dragons]], [[D&d Design]]
+
 Sessions start off slow until the players remember who their characters are. Once they are immersed in their characters and in the world, the game runs much more naturally
 
 It is the job of the dungeon master to aid the party in their immersion. Some great stratagies include
