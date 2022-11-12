@@ -1,8 +1,8 @@
-[[Dungeons and Dragons]] [[_notes/Sean's Garden/01 Original Ideas/Game Design]] 
+[[🌳Dungeons and Dragons]] [[_notes/Sean's Garden/01 Original Ideas/Game Design]] 
 
 ---
 # Immersion via Aesthetics
-Inspired by [Sebastian Lang from Atmoseeker](https://www.youtube.com/c/Atmoseeker) I have begun an effort to make my [[Dungeons and Dragons|D&d Games]] much more engaging by use of highly Aesthetic set peices which serve to enhance the overal mood and tone of the game.
+Inspired by [Sebastian Lang from Atmoseeker](https://www.youtube.com/c/Atmoseeker) I have begun an effort to make my [[🌳Dungeons and Dragons|D&d Games]] much more engaging by use of highly Aesthetic set peices which serve to enhance the overal mood and tone of the game.
 
 ## How much aesthetics do you need?
 I like to think of my approach to visual aesthetics to d&d in [[Three Levels of Visual Aesthetics for RPGs|3 levels]]. The main purpose of this is to allow for flexibility. Building your aesthtics to the standards of a lower level has the benefits of being very quick, something which is very valuable to a creator. Building to a higher level, on the other hand allows for more precise detail which hightens existing aesthetic immersion. 
@@ -13,4 +13,4 @@ This brings me to...
 ## Diversify Your Efforts
 If you have 1 hour to prep for a session, it is far better to split your time amoungst several different things that may provide value to the experience rather than focusing on 1 or 2 aspects. There are two main reasons for this
 1. Law of diminishing returns
-2. [[DM Attachment]] 
+2. [[🌰DM Attachment]] 

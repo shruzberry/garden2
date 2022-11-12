@@ -1,4 +1,4 @@
-[[Dungeons and Dragons]] [[Immersion via Aesthetics]]
+[[🌳Dungeons and Dragons]] [[Immersion via Aesthetics]]
 
 **Level 0: Imagination**
 

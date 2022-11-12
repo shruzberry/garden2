@@ -10,7 +10,7 @@ This is the modern wave of rpgs seen mostly in the 2000s in which more easy to p
 Although not yet fully actualized, third wave d&d promises to combine the fun of the old systems with the meaningfullness of the new systems. There are a few key elements of this way of playing that I will list as seperate notes
 
 Players are Masters of The Game
-- [[Augmented Theater of the Mind]] 
+- [[🌱Augmented Theater of the Mind]] 
 - [[Player Co-Creation]] 
 - [[Personalized Storytelling]] 
 - [[Player Projection]]

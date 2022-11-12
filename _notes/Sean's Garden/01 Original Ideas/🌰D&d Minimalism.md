@@ -1,4 +1,4 @@
-Less is more when it comes to [[Dungeons and Dragons]].
+Less is more when it comes to [[🌳Dungeons and Dragons]].
 
 Surround yourself with the right inspiration and then let ideas emerge naturally in game focusing on the present moment
 

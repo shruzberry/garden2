@@ -1,1 +1,1 @@
-outlines represent the tree like structure of [[Conversation]]
+outlines represent the tree like structure of [[🌳Conversation]]

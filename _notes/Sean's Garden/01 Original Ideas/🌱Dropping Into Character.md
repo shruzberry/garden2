@@ -1,4 +1,4 @@
-[[Dungeons and Dragons]]
+[[🌳Dungeons and Dragons]]
 
 When the DM instructs the players to "drop into character", all players instantly immerse themselves into the character they are playing for a brief period of time in an attempt to better personify and [[Role Play]] that character. 
 

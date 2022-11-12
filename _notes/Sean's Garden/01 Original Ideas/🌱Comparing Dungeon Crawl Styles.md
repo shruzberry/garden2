@@ -1,4 +1,4 @@
-taking into consideration my work from [[Favor Fun over Realism]], and [[The Only Dungeon Map You'll Ever Need]], I would like to create a standard that I will use for more complicated dungeons going forward. The existing styles are as follows
+taking into consideration my work from [[🌰Favor Fun over Realism]], and [[The Only Dungeon Map You'll Ever Need]], I would like to create a standard that I will use for more complicated dungeons going forward. The existing styles are as follows
 
 Assumptions
 1. A party who wishes to can complete the dungeon in a 3-4 hour session
@@ -57,7 +57,7 @@ Its a tentative tie as depending on player preference two different options coul
 	1. Requires more peices 
 	2. Visually represents the entire dungeon
 	3. element of suprise as explroation and combat pillars look the same
-	4. Vulnerable to [[DM Attachment]]
+	4. Vulnerable to [[🌰DM Attachment]]
 
 What to solve next
 Making solution 1 better

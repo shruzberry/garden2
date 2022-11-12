@@ -1,3 +1,4 @@
+
 [[Personal Finance]] 
 
 There exists a problem especially as it pertains to purchasing things for creative endeavors and other productive things that is at times we are more impulsive and that other times we are more passive all of which affects our willingness to purchase necessary things that are needed for creative projects.

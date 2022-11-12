@@ -11,6 +11,6 @@ This site is a collection of my thoughts that I am in the midst of deveopling. I
 
 Below are pages that I link to often in my other ideas.  I suggest using them as a jumping off point by picking a topic that interests you and viewing the right sidebar for ideas that have referenced these topics. 
 
-- [[Dungeons and Dragons]]
-- [[Conversation]]
+- [[🌳Dungeons and Dragons]]
+- [[🌳Conversation]]
 - [[Productivity]] 
