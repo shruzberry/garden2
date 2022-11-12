@@ -1,4 +1,4 @@
-[[🌳Dungeons and Dragons]] [[_notes/Sean's Garden/01 Original Ideas/Game Design]] 
+[[🌳Dungeons and Dragons]] [[🌳Game Design]] 
 
 ---
 # Immersion via Aesthetics

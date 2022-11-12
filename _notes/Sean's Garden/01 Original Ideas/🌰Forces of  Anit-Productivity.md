@@ -1,4 +1,4 @@
-[[Productivity]]
+[[🌳Productivity]]
 
 **Positive**
 Logging past events
