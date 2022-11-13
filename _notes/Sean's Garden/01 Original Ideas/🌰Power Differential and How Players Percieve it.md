@@ -1,0 +1,1 @@
+Players seem to naturally be comfortable with moderate to large differences in power levels in games: Especially more free form and narrative games such as [[🌳Dungeons and Dragons]] Even if the power favors the enemy/antagonist of that story, the players hardly make a fuse of it. In a way it inspires them to grow in power to rise to the challenge

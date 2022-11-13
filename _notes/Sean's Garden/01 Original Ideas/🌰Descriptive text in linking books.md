@@ -1,4 +1,4 @@
-[[Myst]]
+[[🌰Myst]]
 
 I see it as anything and everything that can be put on a page. Words images calligraphy symbols etc. Such that they inspire a direction forward in imagination
 

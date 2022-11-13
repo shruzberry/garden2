@@ -1,4 +1,4 @@
-[[Thinking]] 
+[[🌰Thinking]] 
 
 Some system that allows information to be added to an abstract container for later retrieval. Later, as the information becomes relevant, it is pulled out for the user in order to prompt more idea generation to feed back into the system
 

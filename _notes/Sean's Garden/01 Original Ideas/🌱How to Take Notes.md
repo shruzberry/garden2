@@ -4,7 +4,7 @@ When note taking, do whatever feels natural. Feel free to break structure, waste
 - Reasons for Taking Notes
 	- Peace of Mind
 	- Capture Curiosity 
-	- Improve your work
+	- Improve your [[🌱Work]]
 	- Build 
 - Keep Old Notes
 	- Keeping old notes allows you to apply new idea in the context of old ideas.
@@ -21,4 +21,4 @@ When note taking, do whatever feels natural. Feel free to break structure, waste
 	- Use the simple and singular noun form when possible
 		- exception would be a category such as Areas
 		- Use a title that best references it if it were using I a sentence
-		- If context is needed, place it in parentheses after the title E.g. [[Items (RPG)]]
+		- If context is needed, place it in parentheses after the title E.g. [[🌰Items]]

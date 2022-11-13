@@ -1,4 +1,4 @@
-[[🌳Creativity]] [[Love]] 
+[[🌳Creativity]] [[🌰Love]] 
 
 I have begun to notice that I do not desire to be payed for my art. Rather, I want it to be considered a worthwhile endeavor. Being payed for art is a way to achieve this among others
 

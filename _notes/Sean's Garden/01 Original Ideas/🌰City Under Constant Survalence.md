@@ -1,5 +1,5 @@
 
-[[🌳Dungeons and Dragons]] [[Worldbuilding]]
+[[🌳Dungeons and Dragons]] [[🌰Worldbuilding]]
 
 a sci fi themed city where all inhabitance are under constant video surveillance and cannot go undetected.
 

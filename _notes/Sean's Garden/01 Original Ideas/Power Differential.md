@@ -1,1 +1,0 @@
-Players seem to naturally be comfortable with moderate to large differences in power levels in games. More particularly in which the power favors the enemy/antagonist

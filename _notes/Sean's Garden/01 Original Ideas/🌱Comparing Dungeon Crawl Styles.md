@@ -1,4 +1,4 @@
-taking into consideration my work from [[🌰Favor Fun over Realism]], and [[The Only Dungeon Map You'll Ever Need]], I would like to create a standard that I will use for more complicated dungeons going forward. The existing styles are as follows
+taking into consideration my [[🌱Work]] from [[🌰Favor Fun over Realism]], and [[The Only Dungeon Map You'll Ever Need]], I would like to create a standard that I will use for more complicated dungeons going forward. The existing styles are as follows
 
 Assumptions
 1. A party who wishes to can complete the dungeon in a 3-4 hour session
@@ -19,17 +19,17 @@ Styles
 	2. Sheets of paper
 	3. A lot of tiles
 	4. Swap tiles during initiative
-4. Theater of the mind
+4. [[🌱Theater of the Mind]]
 	1. Just do it forehead
 
 Favorites
 1. Generate 3-5 main rooms >> Swap tiles during initiative
-2. Generated rooms but not hallways >> Almost a fuck ton of tiles
+2. Generated rooms but not hallways >> Almost a f.... ton of tiles
 3. Generate everything >> Roll 20
-4. Theater of the mind
+4. [[🌱Theater of the Mind]]
 
 Easiest for DM
-1. Theater of the mind
+1. [[🌱Theater of the Mind]]
 2. Generate 3-5 main rooms >> Swap tiles during initiative
 3. Generated rooms but not hallways >> Almost a fuck ton of tiles
 4. Generate everything >> Roll 20
@@ -38,13 +38,13 @@ Makes quality game for players
 1. Generated rooms but not hallways >> Almost a fuck ton of tiles
 2. Generate everything >> Roll 20
 3. Generate 3-5 main rooms >> Swap tiles during initiative
-4. Theater of the mind
+4. [[🌱Theater of the Mind]]
 
 Scores
 1.(6) Generate 3-5 main rooms >> Swap tiles during initiative
 2.(6) Generated rooms but not hallways >> Almost a fuck ton of tiles
 3.(9) Generate everything >> Roll 20
-4.(9) Theater of the mind
+4.(9) [[🌱Theater of the Mind]]
 
 Conclusion
 Its a tentative tie as depending on player preference two different options could win. For the average case here is the order of winners

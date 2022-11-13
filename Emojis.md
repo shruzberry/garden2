@@ -9,3 +9,5 @@ These notes serve less as pieces of content themselves and more like collections
 
 🌿
 when certain ideas grow to a very large size and have a long list of notes reference them, this may be an indicator that the MOC should be subdivided
+
+🏡📝
