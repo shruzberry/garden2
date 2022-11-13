@@ -1,4 +1,4 @@
-[[🌳Dungeons and Dragons]] [[🌿D&d Combat]]
+[[🌿D&d Combat]]
 
 ## 1) Quick Combat 
 The emphasis here is on "Quick". Usually these encounters are resolved within a round or two and do not require much complexity. [[🌱Theater of the Mind]] will suffice here 90% of the time
