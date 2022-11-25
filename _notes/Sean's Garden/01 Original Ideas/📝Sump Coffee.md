@@ -1,4 +1,4 @@
-[[🌰Coffee]] [[🌳Conversation]]
+[[🌰Coffee]] [[🌱Conversation]]
 - Catering to a small niche allows for more intimacy and a better dynamic between customer and barista
 - Aesthetic and design are both unique and perfectly tuned to the people
 - Learned from the barista that honey can make oat milk taste less card boardy

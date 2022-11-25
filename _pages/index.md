@@ -13,7 +13,7 @@ I have put them out here unpolished and under construction as a way to circumven
 I hope something in the garden will peak your interest. 
 Below are pages that I link to often in my other ideas. I suggest using them as a jumping off point by picking a topic that interests you. Then, simply follow links that interest you. 
 
-- [[🌳Conversation]]
+- [[🌱Conversation]]
 - [[🌳Creativity]]
 - [[🌳Dungeons and Dragons]]
 - [[🌳Productivity]]

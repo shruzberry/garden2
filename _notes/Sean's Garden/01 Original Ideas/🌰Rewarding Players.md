@@ -1,4 +1,4 @@
-[[🌳Game Design]] [[🌳Dungeons and Dragons]]
+[[🌱Game Design]] [[🌳Dungeons and Dragons]]
 
 Each player finds different things to be rewarding but some common things are...
 - [[🌰Items]] to enable gameplay

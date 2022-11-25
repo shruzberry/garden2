@@ -1,4 +1,4 @@
-[[🌳Game Design]]
+[[🌱Game Design]]
 
 1. Indoor man-made (dungeon, castle)
 	1. true tiles
