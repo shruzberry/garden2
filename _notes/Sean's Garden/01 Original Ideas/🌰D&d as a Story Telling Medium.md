@@ -1,0 +1,1 @@
+[[🌳Dungeons and Dragons]] allows us to manipulate passage of time better than other story telling mediums. We can simply say a day passes with out having to show it in some way
