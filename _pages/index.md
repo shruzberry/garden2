@@ -4,12 +4,6 @@ title: Home
 id: home
 permalink: /
 ---
-<html>  
-<head>  
-<link rel="icon" type="image/jpg" href="assets/herb.png"/>
-</head>  
-</html>
-
 # Welcome! 🌱
 
 This site is a collection of my thoughts.
