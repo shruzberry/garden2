@@ -1,2 +1,0 @@
-
-Art therapy is much like [[🌱Play]] in the sense that we experience in a very tangible and aesthetic way, the process of communicating with the [[🌱Subconscious]] (see [[🌰The Physiological State of Doing Art]]) by allowing ourselves to act out whatever is on our mind and see what that version of ourselves becomes.

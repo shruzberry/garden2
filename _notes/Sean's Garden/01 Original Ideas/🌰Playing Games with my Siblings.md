@@ -1,3 +1,0 @@
-When I used to [[🌱Play]] games with my siblings in childhood, there were moments of action and adventure intermixed with slower and more immersive imaginative experiences. When things were slow, quite and personal, I felt immersed in the game. Only then did my role in that game gain more clarity. In a way, it was similar to real life [[🌰Meditation]]
-
-This idea has inspired a technique I use now while playing [[🌳Dungeons and Dragons]] which I like to call [[🌱Dropping Into Character]] 

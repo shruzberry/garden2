@@ -13,4 +13,4 @@ This brings me to...
 ## Diversify Your Efforts
 If you have 1 hour to prep for a session, it is far better to split your time amoungst several different things that may provide value to the experience rather than focusing on 1 or 2 aspects. There are two main reasons for this
 1. Law of diminishing returns
-2. [[🌰DM Attachment]] 
+2. [[DM Attachment]] 

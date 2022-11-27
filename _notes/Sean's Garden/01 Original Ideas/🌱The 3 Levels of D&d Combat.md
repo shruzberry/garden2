@@ -4,7 +4,7 @@
 The emphasis here is on "Quick". Usually these encounters are resolved within a round or two and do not require much complexity. [[🌱Theater of the Mind]] will suffice here 90% of the time
 
 ## 2) Augmented Theater of the Mind
-[[🌱Theater of the Mind]]  focuses on using props to aid player immersion but things are much more interoperative and squishy. Players may also [[🌰Player Co-Creation|add things to the encounter]] that they believe should be there such as a tree to hide behind 
+[[🌱Theater of the Mind]]  focuses on using props to aid player immersion but things are much more interoperative and squishy. Players may also [[Player Co-Creation|add things to the encounter]] that they believe should be there such as a tree to hide behind 
 
 It's similar in some ways to how players of acting improv use some physical objects such as chairs to aid there play but primarily utilize gestures and body language to paint a picture in the mind.
 

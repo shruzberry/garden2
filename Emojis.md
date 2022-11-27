@@ -1,6 +1,3 @@
-🌰
-hasn't been edited since it's original postage to the site
-
 🌱
 This idea has been revisited at least once usually as a consequence of it being mentioned elsewhere. That is to say this idea has taken root in the garden and has proven to be something more than a musing
 
