@@ -1,4 +1,4 @@
-[[🌿D&d Combat]]
+[[🌿Dungeons and Dragons Combat]]
 
 Here are some tips for making combat run faster
 1. Players should have their turn conceptualized when their turn starts and only spend their time describing action and rolling

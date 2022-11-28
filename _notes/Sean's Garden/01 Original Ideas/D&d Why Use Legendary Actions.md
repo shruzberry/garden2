@@ -1,2 +1,2 @@
-[[🌿D&d Combat]]
+[[🌿Dungeons and Dragons Combat]]
 Players prefer multiple legendary actions as it feels there is more interplay between the boss and the players. Conversely, players are uncomfortable with the idea of when the monster has its turn we're just waiting to see who dies

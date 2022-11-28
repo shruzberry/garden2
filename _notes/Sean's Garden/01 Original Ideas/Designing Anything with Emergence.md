@@ -1,0 +1,1 @@
+[[Emergence]] can apply not only to ideas but to products as well. An example of this is the Cinnamon Honey Oat Milk Latte. I did not come up with this but rather observed many coffee aficionados gravitate to something like this causing it to become real

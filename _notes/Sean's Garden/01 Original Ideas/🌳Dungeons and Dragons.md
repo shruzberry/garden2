@@ -1,6 +1,6 @@
 ## Subcategories
 [[🌿D&d Design]]
-[[🌿D&d Combat]]
+[[🌿Dungeons and Dragons Combat]]
 
 ## Recommended Content
 https://slyflourish.com/

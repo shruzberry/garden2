@@ -1,0 +1,1 @@
+Part of the joy of Christmas as a child was watching adults join in and [[🌱Play]] our games. It was an immersive experience. [[Roleplaying]] comes very naturally to a child but not to adults. Furthermore, it is seldom that the two groups do it together.

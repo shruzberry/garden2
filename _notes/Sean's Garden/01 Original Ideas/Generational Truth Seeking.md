@@ -1,0 +1,1 @@
+Each generation has a responsibility to discover [[Truth]] in their own context and should not simply trust their ancestors. This will require them to flirt with evil to assess the quality of the truth that has been presented to them by their parents and compare it with their own wisdom.
